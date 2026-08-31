@@ -18,7 +18,7 @@ Official JMeter client for the [SimpleBilly API](https://simplebilly.com/api/doc
 
 ## Installation
 
-The package is published to the JMeter package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages) — free for public packages).
+The package is published to the JMeter package registry (and to [GitHub Packages](https://github.com/orgs/simplebilly/packages)).
 See the [Releases](https://github.com/simplebilly/simplebilly-jmeter/releases) page for the list
 of versions and registry coordinates.
 
