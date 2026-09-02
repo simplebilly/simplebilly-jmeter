@@ -1,0 +1,2 @@
+testCase,httpStatusCode,createTicketRequest,ticketId,ticketId,status,priority,assignedTo,channelType,customerId,search,page,pageSize,ticketId,supportTicketUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0

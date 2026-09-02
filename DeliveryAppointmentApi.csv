@@ -1,0 +1,2 @@
+testCase,httpStatusCode,deliveryAppointmentCreate,appointmentId,appointmentId,appointmentId,email,token,page,pageSize,status,warehouseId,from,to,publicDeliveryAppointmentRequest,appointmentId,body,appointmentId,appointmentStatusUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

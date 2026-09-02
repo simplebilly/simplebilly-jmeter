@@ -1,0 +1,2 @@
+testCase,httpStatusCode,customerCommunicationCreate,communicationId,communicationId,communicationId,contactId,page,pageSize,contactId,channel,direction,from,to,communicationId,customerCommunicationUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0

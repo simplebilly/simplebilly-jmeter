@@ -1,0 +1,2 @@
+testCase,httpStatusCode,kycRecordCreate,id,id,page,pageSize,search,includeDeleted,id,kycRecordUpdate
+Success,200,0,0,0,0,0,0,0,0,0

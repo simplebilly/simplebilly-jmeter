@@ -1,0 +1,2 @@
+testCase,httpStatusCode,productAttributeCreate,attributeId,attributeId,page,pageSize,productId,isFilterable,search,attributeId,productAttributeUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0

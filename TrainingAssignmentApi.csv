@@ -1,0 +1,2 @@
+testCase,httpStatusCode,trainingAssignmentCreate,id,id,page,pageSize,search,includeDeleted,id,trainingAssignmentUpdate
+Success,200,0,0,0,0,0,0,0,0,0

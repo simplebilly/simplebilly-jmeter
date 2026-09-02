@@ -1,0 +1,2 @@
+testCase,httpStatusCode,inventoryCount,inventoryCountId,generateCountRequest,inventoryCountId,page,pageSize,status,warehouseId,inventoryCountId,body,inventoryCountId,inventoryCountStatusUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0

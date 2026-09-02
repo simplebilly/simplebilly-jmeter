@@ -1,0 +1,2 @@
+testCase,httpStatusCode,createConnectionRequest,connectionId,connectionId,connectionId,connectionId,oAuthAuthorizeRequest,oAuthCallbackRequest,connectionId,syncType,direction,connectionId,updateConnectionRequest,connectionId,updateSyncDirectionRequest,platform,connectionId
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

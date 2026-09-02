@@ -1,0 +1,2 @@
+testCase,httpStatusCode,priceTierCreate,priceTierId,priceTierId,productId,quantity,contactId,page,pageSize,productId,customerGroupId,priceTierId,priceTierUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0

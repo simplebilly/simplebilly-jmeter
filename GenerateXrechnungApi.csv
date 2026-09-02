@@ -1,0 +1,2 @@
+testCase,httpStatusCode,id,supplierName,supplierStreet,supplierCity,supplierZip,supplierCountry,supplierVatId
+Success,200,0,0,0,0,0,0,0

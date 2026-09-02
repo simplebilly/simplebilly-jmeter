@@ -1,0 +1,2 @@
+testCase,httpStatusCode,customerCreate,customerId,customerId,customerId,page,pageSize,search,includeDeleted,customerId,customerUpdate
+Success,200,0,0,0,0,0,0,0,0,0,0

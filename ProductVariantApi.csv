@@ -1,0 +1,2 @@
+testCase,httpStatusCode,productVariant,variantId,generateVariantsRequest,variantId,page,pageSize,productId,isActive,variantId,body
+Success,200,0,0,0,0,0,0,0,0,0,0

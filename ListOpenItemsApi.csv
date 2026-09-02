@@ -1,0 +1,2 @@
+testCase,httpStatusCode,reminderLevel1Days,reminderLevel2Days,reminderLevel3Days,customerId
+Success,200,0,0,0,0

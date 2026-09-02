@@ -1,0 +1,2 @@
+testCase,httpStatusCode,creditorName,creditorIban,creditorId,mandateId,mandateDate,debtorName,debtorIban,amount,collectionDate,creditorBic,debtorBic,description
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0

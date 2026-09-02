@@ -1,0 +1,2 @@
+testCase,httpStatusCode,silentPartnerCreate,id,id,page,pageSize,search,includeDeleted,id,silentPartnerUpdate
+Success,200,0,0,0,0,0,0,0,0,0

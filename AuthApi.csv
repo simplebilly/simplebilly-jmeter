@@ -1,0 +1,2 @@
+testCase,httpStatusCode,acceptInviteRequest,forgotPasswordRequest,loginRequest,magicLinkRequest,magicLinkVerifyRequest,registerRequest,resetPasswordRequest,totpEnableRequest,verifyEmailRequest
+Success,200,0,0,0,0,0,0,0,0,0

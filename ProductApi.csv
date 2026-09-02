@@ -1,0 +1,2 @@
+testCase,httpStatusCode,productCreate,productId,productId,productId,page,pageSize,search,includeDeleted,threshold,productId,productId,productUpdate,productId,stockUpdateRequest
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0

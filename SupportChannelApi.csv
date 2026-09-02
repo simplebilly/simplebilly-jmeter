@@ -1,0 +1,2 @@
+testCase,httpStatusCode,createChannelDto,channelId,channelId,updateChannelDto
+Success,200,0,0,0,0

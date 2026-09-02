@@ -1,0 +1,2 @@
+testCase,httpStatusCode,goodsReceipt,goodsReceiptId,goodsReceiptId,page,pageSize,purchaseOrderId,supplierName,warehouseId
+Success,200,0,0,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+testCase,httpStatusCode,serviceAssignmentCreate,id,id,page,pageSize,search,includeDeleted,id,serviceAssignmentUpdate
+Success,200,0,0,0,0,0,0,0,0,0
